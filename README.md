@@ -1,2 +1,2 @@
-# exenplos
+# exemplos
 exemplos de projetos
